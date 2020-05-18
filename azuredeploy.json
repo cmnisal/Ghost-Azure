@@ -10,7 +10,7 @@
     },
     "siteLocation": {
       "type": "string",
-      "defaultValue": "Southeast Asia"
+      "defaultValue": "5"
     },
     "sku": {
       "type": "string",
